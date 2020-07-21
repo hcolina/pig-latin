@@ -2,7 +2,7 @@ print ("Welcome to the Pig Latin Translator!")
 
 pyg = ("ay")
 
-original = input("Enter a word: ")
+original = input("Enter a word: ") #take user input
 
 if len(original) > 0 and original.isalpha() :
     print ("You chose: " + original)
