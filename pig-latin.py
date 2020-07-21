@@ -1,6 +1,6 @@
 print ("Welcome to the Pig Latin Translator!")
 
-pyg
+pyg = ("ay")
 
 original = raw_input("Enter a word: ")
 
