@@ -6,5 +6,6 @@ if len(original) > 0 and original.isalpha() :
     print ("You chose: " + original)
     word = original.lower()
     first = word[0]
+    new_word = 
 else: 
     print ("This is not a valid entry.")
