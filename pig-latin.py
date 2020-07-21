@@ -1,5 +1,7 @@
 print ("Welcome to the Pig Latin Translator!")
 
+pyg
+
 original = raw_input("Enter a word: ")
 
 if len(original) > 0 and original.isalpha() :
