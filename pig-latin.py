@@ -8,7 +8,7 @@ if len(original) > 0 and original.isalpha() :
     first = word[0]
     new_word = word + first + pyg
     new_word = new_word[1:len(new_word)]
-    print ""
+    print ("")
     print "Your new word is " + new_word
 else: 
     print ("This is not a valid entry.")
