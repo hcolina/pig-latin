@@ -1,1 +1,1 @@
-print "Welcome to the Pig Latin Translator!"
+print ("Welcome to the Pig Latin Translator!")
