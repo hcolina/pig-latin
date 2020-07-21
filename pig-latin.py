@@ -2,7 +2,7 @@ print ("Welcome to the Pig Latin Translator!")
 
 original = raw_input("Enter a word: ")
 
-if len(original) > 0 and :
+if len(original) > 0 and original :
     print ("You chose: ")
 else: 
     print ("empty")
